@@ -61,14 +61,20 @@ CryoVision is a **ready-to-use AI application** that:
 
 ---
 
-### 🧬 3D Spheroid Analysis
-![3D Reconstruction](images/3d_reconstruction.png)
+### 🧬 Z-Stacks - 3D Spheroid Images
+![3D Reconstruction](images/Spheroid.gif)
 <!-- Placeholder: 3D model visualization of spheroid -->
 
 ---
 
-### ⚙️ Automated Pipeline
-![Pipeline](images/pipeline.png)
+### 🧬 3D Spheroid Analysis
+![3D Reconstruction](images/Z-stack.gif)
+<!-- Placeholder: 3D model visualization of spheroid -->
+
+---
+
+### ⚙️ User-Friendly UI
+![Pipeline](images/UI.gif)
 <!-- Placeholder: Diagram: Input image → AI → Metrics + Visualization -->
 
 ---
